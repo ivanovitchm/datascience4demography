@@ -4,4 +4,4 @@
 - Lesson #01
   - Platforms for Data Science
   - Google Colab
-  - Python crash course
+  - Python crash course (hello world, loops, list, list of lists, files)
