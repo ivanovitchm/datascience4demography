@@ -8,3 +8,12 @@
 - Lesson #02
 	- Dictionaries and frequency tables
 	- Functions fundamentals
+- Lesson #03
+	- Introduction to Pandas
+	- Series vs Dataframe
+	- Select vs Assign
+	- Main methods
+- Lesson #04
+	- Exploring data with Pandas
+	- iloc vs loc
+	- boolean operators
