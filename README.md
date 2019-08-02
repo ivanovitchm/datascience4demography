@@ -23,4 +23,11 @@
 	- Sanitation
 	- Pivoting
 	- Case study: titanic 
+- Lesson #06
+	- Folium
+	- Maps styles, markers, color and icon types
+	- Marker clusters
+	- Heatmap
+	- Popups
+
 
