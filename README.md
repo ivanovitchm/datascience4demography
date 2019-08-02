@@ -17,3 +17,10 @@
 	- Exploring data with Pandas
 	- iloc vs loc
 	- boolean operators
+- Lesson #05 
+	- Working with missing data
+	- Imputation 
+	- Sanitation
+	- Pivoting
+	- Case study: titanic 
+
