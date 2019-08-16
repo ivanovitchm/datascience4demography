@@ -29,5 +29,11 @@
 	- Marker clusters
 	- Heatmap
 	- Popups
+- Lesson #07
+	- Working with API
+	- Case study: IBGE
+	- Geojson Files
+	- Creating choropleths maps
+
 
 
